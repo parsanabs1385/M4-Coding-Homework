@@ -1,4 +1,5 @@
-a187ee4 (HEAD -> main, origin/main, origin/HEAD) Completed Task 2.1 up to 4
+3c08eef (HEAD -> main, origin/main, origin/HEAD) Completed Task 2.1
+a187ee4 Completed Task 2.1 up to 4
 0805293 Completed Task 1.2
 e30dc36 Completed Task 1.1
 48fa18b Initial commit
